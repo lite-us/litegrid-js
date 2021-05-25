@@ -1,4 +1,4 @@
-# What is TronGridJS?
+# What is LiteGridJS?
 
 __[TronGridJS - Developer Document](https://developers.tron.network/docs/trongrid-js-intro)__
 
